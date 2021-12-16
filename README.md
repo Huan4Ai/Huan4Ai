@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/huan-ai/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a dog lover ^
+
+[![Huan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huan4Ai)](https://github.com/Huan4Ai/github-readme-stats)
