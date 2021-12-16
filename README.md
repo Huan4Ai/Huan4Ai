@@ -10,3 +10,4 @@
 - ⚡ Fun fact: I am a dog lover ^
 
 [![Huan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huan4Ai)](https://github.com/Huan4Ai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huan4Ai&langs_count=5)](https://github.com/Huan4Ai/github-readme-stats)
