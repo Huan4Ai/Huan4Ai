@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a front-end developer
-- 🌱 I’m currently improving my skills in React and TypeScript
+- 🔭 I’m currently working on data structures and algorithm
+- 🌱 I’m currently improving my skills in Java and React
 - 👯 I’m looking to collaborate on anything about programming
 - 💬 Ask me about how programming grants me magic power
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/huan-ai/)
